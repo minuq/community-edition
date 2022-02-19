@@ -45,7 +45,7 @@
 1. Unpack the release.
 
     ```sh
-    tar xzvf ~/<DOWNLOAD-DIR>/tce-linux-amd64-{{< release_latest >}}.tar.gz
+    tar xzvf <DOWNLOAD-DIR>/tce-linux-amd64-{{< release_latest >}}.tar.gz
     ```
 
 1. Run the install script (make sure to use the appropriate directory for your platform).
